@@ -6,7 +6,7 @@ This full stack application leverages AWS functionality for server-side hosting,
 This project explores full stack application development, particularily focusing on the integration of React frontend with AWS DynamoDB backend. 
 
 
-Key Features
+> Key Features
 
 
 **Full-Stack Development**: Gain insights into the end-to-end development process, from frontend to backend, by building a fully functional todo list application.
@@ -19,7 +19,7 @@ Key Features
 
 **CRUD Operations**: Implements Create, Read, Update, and Delete operations within the application, allowing users to manage their task lists effectively.
 
-How to Use
+> How to Use
 1. Clone this repository to your local machine.
 2. Navigate to the project directory in your terminal.
 3. Run npm install to install dependencies.
