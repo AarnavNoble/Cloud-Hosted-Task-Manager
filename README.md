@@ -19,12 +19,5 @@ This project explores full stack application development, particularily focusing
 
 **CRUD Operations**: Implements Create, Read, Update, and Delete operations within the application, allowing users to manage their task lists effectively.
 
-**How to Use**
 
-
-1. Clone this repository to your local machine.
-2. Navigate to the project directory in your terminal.
-3. Run npm install to install dependencies.
-4. Configure your AWS credentials in the aws-exports.js file.
-5. Run npm start to start the development server.
-6. Open http://localhost:3000 in your browser to view the application.
+Special thanks to Bear Cahill's AWS and React course for his insightful walkthrough.
