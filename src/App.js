@@ -102,7 +102,7 @@ const App = () => {
     <Authenticator>
       {({ signOut, user }) => (
         <main className="app-container">
-          <h1>Hello {user.username}</h1>
+          <h1> Welcome User! Easily manage tasks using this cloud hosted application.</h1>
           <button onClick= { storeTodo }> New Todo </button>
           <button onClick= { changeTodo }> Change Todo </button>
           <button onClick= { removeTodo }> Remove Todo </button>
